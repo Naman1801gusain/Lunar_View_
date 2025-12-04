@@ -9,11 +9,11 @@ export default function Home() {
       <ShootingStars />
       <main className="relative z-20 mx-auto max-w-6xl px-6">
         <div className="mb-10 space-y-4 text-center">
-          <p className="text-sm uppercase tracking-[0.5em] text-slate-400">Sprint 1</p>
-          <h1 className="text-4xl font-serif text-amber-200 sm:text-5xl">Monthly Lunar View</h1>
+          <p className="text-sm uppercase tracking-[0.5em] text-slate-400">Vedic Astrology</p>
+          <h1 className="text-4xl font-serif text-amber-200 sm:text-5xl">Lunar Calendar & Tithi Explorer</h1>
           <p className="mx-auto max-w-2xl text-base text-slate-300">
-            Track the moon&apos;s journey along with its Vedic Tithis in a single glance. Navigate through months to plan
-            rituals, fasts, and spiritual practices without hammering external APIs.
+            Track the moon&apos;s journey and daily Vedic Tithis in a refined lunar calendar experience. Navigate through
+            months to plan rituals, fasts, and spiritual practices with clarity and confidence.
           </p>
         </div>
         <MonthlyLunarView />
