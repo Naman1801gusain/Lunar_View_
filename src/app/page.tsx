@@ -13,7 +13,7 @@ export default function Home() {
           <h1 className="text-4xl font-serif text-amber-200 sm:text-5xl">Lunar Calendar & Tithi Explorer</h1>
           <p className="mx-auto max-w-2xl text-base text-slate-300">
             Track the moon&apos;s journey and daily Vedic Tithis in a refined lunar calendar experience. Navigate through
-            months to plan rituals, fasts, and spiritual practices with clarity and confidences.
+            months to plan rituals, fasts, and spiritual practices with clarity and confidence.
           </p>
         </div>
         <MonthlyLunarView />
